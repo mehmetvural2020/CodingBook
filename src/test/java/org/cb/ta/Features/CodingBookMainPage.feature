@@ -6,7 +6,7 @@ Feature: CodingBook Main Page
     Then Test if user landed CodingBook homepage
 
   Scenario: Test CodingBook LinkedIn icon
-    Given User opens CodingBook web page
+    Given User opens CodingBook web page1
     When User checks if CodingBook LinkedIn icon is visible on the top right corner
     And User clicks CodingBook LinkedIn icon
     Then Test if user landed CodingBook LinkedIn page
